@@ -34,7 +34,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I learned how to use HTML, CSS, and the box-shadow property to create a shadow effect around the QR code.
+I'm continuing to practice HTML, CSS, and the box-shadow property to create a shadow effect around the QR code.
 
 ```css
 .whiterect {
@@ -50,7 +50,7 @@ I learned how to use HTML, CSS, and the box-shadow property to create a shadow e
 
 ### Continued development
 
-I want to get more comfortable with CSS and learning advanced CSS techniques.
+I want to get more comfortable with CSS and learning advanced CSS techniques. Also, I need to get better using git respositories and how to leverage their power for my projects.
 
 ## Author
 
